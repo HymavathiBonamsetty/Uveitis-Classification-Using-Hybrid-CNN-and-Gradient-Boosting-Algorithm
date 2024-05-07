@@ -1,1 +1,3 @@
-# Uveitis-Classification-Using-Hybrid-CNN-and-Gradient-Boosting-Algorithm
+### Uveitis-Classification-Using-Hybrid-CNN-and-Gradient-Boosting-Algorithm
+
+The project aims to develop a robust and efficient framework for the classification of uveitis using a hybrid approach combining Convolutional Neural Networks (CNNs) and Gradient Boosting. Uveitis is a complex and potentially sight-threatening condition characterized by inflammation of the uvea, the middle layer of the eye. The proposed framework leverages the power of CNNs to extract discriminative features from fundus images, which are then fed into a Gradient Boosting model for final classification. This hybrid approach capitalizes on the strengths of both techniques, providing improved accuracy, interpretability, and scalability for uveitis classification, ultimately facilitating early diagnosis and targeted treatment strategies.
